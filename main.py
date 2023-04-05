@@ -1,9 +1,12 @@
 import pyautogui as gui
 import time
+import PIL
 import random
+
 sayings = [":100:Yo", "Oh", "o", "O", "What?", "What??", "What???", "what?",
            "no way", "an't no way", "kys", "wdym", "lol", 
-           "haha!", "HAHA", "LOL", "L0L", "hello", "hi", "halo", "helo",
+           "haha!", "HAHA", "LO",
+           "L0L", "hello", "hi", "halo", "helo",
            "wtf", "tf", "?", "??", "???", "are you autistic", "autistic?",
            "what did you say", "what do you say", "what do you mean",
            "what you mean?", "I'm just minding my own buisness",
